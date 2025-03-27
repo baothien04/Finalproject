@@ -118,17 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="da-cam-thach-xanh-la" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\da-cam-thach-xanh-la.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="52-521653_blue-close-button-png-close-button-blue-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\52-521653_blue-close-button-png-close-button-blue-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="set-vt2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\set-vt2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pasted image 0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pasted image 0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cac-kien-thuc-huu-ich-ve-sapphire-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cac-kien-thuc-huu-ich-ve-sapphire-3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Vang24K1_1734498550848" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Vang24K1_1734498550848.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-red-exit-close-for-game-png-image_4530156" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-red-exit-close-for-game-png-image_4530156.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dashboard-icon-2048x2048-pe4ds1g2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dashboard-icon-2048x2048-pe4ds1g2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2022_07_28___1658977110___y-nghia-da-ruby-trong-phong-thuy-3-png46e7a94dea621871b683e318d892604f" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2022_07_28___1658977110___y-nghia-da-ruby-trong-phong-thuy-3-png46e7a94dea621871b683e318d892604f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,19 +139,49 @@
   <data name="Bac-925-la-gi-Dung-co-tot-khong-va-cach-nhan-biet-bac-925" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bac-925-la-gi-Dung-co-tot-khong-va-cach-nhan-biet-bac-925.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="4288270" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4288270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="da-cam-thach-xanh-la" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\da-cam-thach-xanh-la.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="set-vt2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\set-vt2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="customer registration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\customer registration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vang24K1_1734498550848" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vang24K1_1734498550848.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1170627" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1170627.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pasted image 0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pasted image 0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cancel_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancel_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mabe-Pearl-cover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mabe-Pearl-cover.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="360_F_108236272_7Wxofvp39teRiXWk0aQlopcXS1zZyMjw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\360_F_108236272_7Wxofvp39teRiXWk0aQlopcXS1zZyMjw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Check out_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Check out_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add room" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add room.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check out" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4288270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4288270.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="circular loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\circular loading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="xu-huong-kim-cuong-trong-my-pham-cham-soc-da-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\xu-huong-kim-cuong-trong-my-pham-cham-soc-da-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Mabe-Pearl-cover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Mabe-Pearl-cover.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Employee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Employee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

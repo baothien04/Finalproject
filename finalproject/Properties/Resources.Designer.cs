@@ -84,9 +84,39 @@ namespace finalproject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _360_F_108236272_7Wxofvp39teRiXWk0aQlopcXS1zZyMjw {
+            get {
+                object obj = ResourceManager.GetObject("360_F_108236272_7Wxofvp39teRiXWk0aQlopcXS1zZyMjw", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _4288270 {
             get {
                 object obj = ResourceManager.GetObject("4288270", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _52_521653_blue_close_button_png_close_button_blue_png {
+            get {
+                object obj = ResourceManager.GetObject("52-521653_blue-close-button-png-close-button-blue-png", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap add_room {
+            get {
+                object obj = ResourceManager.GetObject("add room", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -114,9 +144,79 @@ namespace finalproject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cancel_50px {
+            get {
+                object obj = ResourceManager.GetObject("cancel_50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap check_out {
+            get {
+                object obj = ResourceManager.GetObject("check out", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Check_out_50px {
+            get {
+                object obj = ResourceManager.GetObject("Check out_50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap circular_loading {
+            get {
+                object obj = ResourceManager.GetObject("circular loading", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap customer_registration {
+            get {
+                object obj = ResourceManager.GetObject("customer registration", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap da_cam_thach_xanh_la {
             get {
                 object obj = ResourceManager.GetObject("da-cam-thach-xanh-la", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dashboard_icon_2048x2048_pe4ds1g2 {
+            get {
+                object obj = ResourceManager.GetObject("dashboard-icon-2048x2048-pe4ds1g2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Employee {
+            get {
+                object obj = ResourceManager.GetObject("Employee", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -137,6 +237,16 @@ namespace finalproject.Properties {
         internal static System.Drawing.Bitmap pasted_image_0 {
             get {
                 object obj = ResourceManager.GetObject("pasted image 0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_red_exit_close_for_game_png_image_4530156 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-red-exit-close-for-game-png-image_4530156", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

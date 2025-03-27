@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Project VS 22\\New folder\\finalproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\ttkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\ttkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\ttkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\ttkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\ttkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,32 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "sanpham.cs [Design]",
-              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs",
-              "RelativeDocumentMoniker": "finalproject\\sanpham.cs",
-              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs [Design]",
-              "RelativeToolTip": "finalproject\\sanpham.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form1.cs",
+              "RelativeDocumentMoniker": "finalproject\\Form1.cs",
+              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form1.cs [Design]",
+              "RelativeToolTip": "finalproject\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:33:09.006Z",
+              "WhenOpened": "2025-03-22T13:43:30.91Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TTkhachhang.cs",
-              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\TTkhachhang.cs",
-              "RelativeDocumentMoniker": "finalproject\\TTkhachhang.cs",
-              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\TTkhachhang.cs",
-              "RelativeToolTip": "finalproject\\TTkhachhang.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "trangchu.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs",
+              "RelativeDocumentMoniker": "finalproject\\trangchu.cs",
+              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs [Design]",
+              "RelativeToolTip": "finalproject\\trangchu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:22:56.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T14:01:29.302Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -71,26 +70,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "trangchu.cs [Design]",
-              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs",
-              "RelativeDocumentMoniker": "finalproject\\trangchu.cs",
-              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs [Design]",
-              "RelativeToolTip": "finalproject\\trangchu.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "sanpham.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs",
+              "RelativeDocumentMoniker": "finalproject\\sanpham.cs",
+              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs [Design]",
+              "RelativeToolTip": "finalproject\\sanpham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:01:29.302Z",
+              "WhenOpened": "2025-03-22T14:33:09.006Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form1.cs",
-              "RelativeDocumentMoniker": "finalproject\\Form1.cs",
-              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form1.cs [Design]",
-              "RelativeToolTip": "finalproject\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form2.cs",
+              "RelativeDocumentMoniker": "finalproject\\Form2.cs",
+              "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form2.cs [Design]",
+              "RelativeToolTip": "finalproject\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:43:30.91Z",
+              "WhenOpened": "2025-03-27T14:56:00.845Z",
               "EditorCaption": " [Design]"
             }
           ]

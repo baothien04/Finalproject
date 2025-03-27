@@ -33,8 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Guna.UI2 ">
+      <HintPath>C:\Users\asus\Downloads\Guna.UI2 .dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +55,18 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giohang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giohang.Designer.cs">
+      <DependentUpon>giohang.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -74,6 +90,12 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giohang.resx">
+      <DependentUpon>giohang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -139,6 +161,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Mabe-Pearl-cover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-red-exit-close-for-game-png-image_4530156.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52-521653_blue-close-button-png-close-button-blue-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer registration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check out_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circular loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard-icon-2048x2048-pe4ds1g2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_108236272_7Wxofvp39teRiXWk0aQlopcXS1zZyMjw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
