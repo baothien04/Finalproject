@@ -1,0 +1,82 @@
+using System;
+using System.Windows.Forms;
+using System.Linq;
+
+namespace finalproject
+{
+    public partial class Form2 : Form
+    {
+        private string username;
+
+        public Form2(string user)
+        {
+            InitializeComponent();
+            username = user;
+        }
+        private void OpenForm<T>() where T : Form, new()
+        {
+            // Kiểm tra nếu form đã mở rồi thì kích hoạt nó, không mở mới
+            Form existingForm = Application.OpenForms.OfType<T>().FirstOrDefault();
+            if (existingForm != null)
+            {
+                existingForm.Activate();
+            }
+            else
+            {
+                T newForm = new T();
+                newForm.Show();
+            }
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            trangchu trangchu = new trangchu();
+            trangchu.Show();
+            this.Hide(); // Ẩn Form2
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            sanpham sanpham = new sanpham();
+            sanpham.Show();
+            this.Hide(); // Ẩn Form2
+        }
+        
+        private void button5_Click(object sender, EventArgs e)
+        {
+            TTkhachhang TTkhachhang = new TTkhachhang();
+            TTkhachhang.Show();
+            this.Hide(); // Ẩn Form2
+        }
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            
+        }
+        private void btnCustomerInfo_Click(object sender, EventArgs e)
+        {
+            TTkhachhang frmKhachHang = new TTkhachhang();
+            frmKhachHang.Show();
+        }
+        private void btnManageProduct_Click(object sender, EventArgs e)
+        {
+            
+        }
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn đăng xuất?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Hide(); // Ẩn Form2
+                Form1 form1 = new Form1();
+                form1.Show();
+            }
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn thoát ứng dụng?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+    }
+}
